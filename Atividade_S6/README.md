@@ -5,7 +5,7 @@
 4. **Foto do Modelo Lógico**
 
 # **1. Modelo Conceitual**
-![image](/modelo_conceitual.png)
+![image](https://res.cloudinary.com/di57ql5yx/image/upload/v1726526177/modelo_conceitual_sbtct7.png)
 
 # **2. SQL do Banco de Dados**:
 -- ---
@@ -345,4 +345,4 @@ ALTER TABLE `ocrb` ADD FOREIGN KEY (card_code) REFERENCES `ocdr` (`card_code`);
 
 # **4. Imagem Modelo Conceitual**
 
-![image](/modelologico.png)
+![image](https://res.cloudinary.com/di57ql5yx/image/upload/v1726526213/modelologico_kz7w3y.png)
